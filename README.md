@@ -1,16 +1,29 @@
-## Hi there 👋
+<!-- pooja-dhagekar/README.md -->
 
-<!--
-**Pooja4121996/Pooja4121996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌸 **Hey there, I’m so glad you’re here!**
 
-Here are some ideas to get you started:
+Welcome to my little corner of GitHub!  
+I’m passionate about growing in my career, learning new tech skills, and making work life a little less overwhelming (and a lot more fun). Here, you'll find:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Projects I’m building or contributing to  
+📚 Things I’ve learned while juggling learning, deadlines, and exploring data  
+🌱 Bits of inspiration for anyone growing in the data & tech field
+
+Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out—you’re in the right place! 🫶
+
+**Let’s connect, learn, and grow together—one repo at a time.**  
+You bring the snacks, I’ll bring the code 🍪💻
+
+---
+
+### 🌐 **Socials:**
+
+[![Instagram]
+[![LinkedIn]
+
+---
+
+### 💻 **Tech Stack:**
+
+
+
